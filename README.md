@@ -5,15 +5,15 @@
 ### Data Scientist
 
 I am from Brazil. I have a bachelor degree in business and a master degree in Production Engineering. 
-I am studying and working Data Science and Machine Learning for almost four years and now I am concluding my second master degree in Data Science.
+I am studying and working with Data Science and Machine Learning for almost four years and now I am concluding my second master degree in Data Science.
 
-## Skills: 
-- :microscope: Map and understand business problems
-- :computer: Build data science and machine learning tools to solve business problems 
-- :rocket: Build apps and dashboards
+## Skills and Experience
+- :microscope: Data Science
+- :computer: Machine Learning
+- :rocket: Deep Learning
 - :hammer_and_wrench: Python / Keras / SQL / Pandas / Numpy / others
 
-## I Am Working With:
+## I Am Working With
 - Time series forecasting with Recurrent Neural Network (LSTM and GRU)
 - Time series forecasting with statistical modelling (ARIMA and SARIMA)
 - Time series outlier detection
