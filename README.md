@@ -1,6 +1,6 @@
 ![Data Scientist](https://github.com/ToniMigliato/ToniMigliato/blob/main/cover.jpg)
 
-# Hi there 👋, my name is Toni!
+# Toni Migliato
 #### Data Scientist
 
 # Who Am I
