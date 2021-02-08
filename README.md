@@ -4,7 +4,6 @@
 # Toni Migliato
 ### Data Scientist
 
-## Who Am I
 I am from Brazil. I have a bachelor degree in business and a master degree in Production Engineering. 
 I am studying and working Data Science and Machine Learning for almost four years and now I am concluding my second master degree in Data Science.
 
