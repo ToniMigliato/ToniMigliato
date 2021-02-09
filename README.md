@@ -4,8 +4,9 @@
 # Toni Migliato
 ### Data Scientist
 
+Main goal: Create value and competitive advantage to companies through Data Science and technologies like Machine Learning and Deep Learning.
 I am from Brazil. I have a bachelor degree in business and a master degree in Production Engineering. 
-I am studying and working with Data Science and Machine Learning for almost four years and now I am concluding my second master degree in Data Science.
+I am studying and working with Data Science and Machine Learning for almost four years and now I am concluding my second master degree in Data Science. 
 
 ## Skills and Experience
 - :microscope: Data Science
