@@ -13,7 +13,7 @@ Profissional de IA aplicada com formação em Administração e dois mestrados p
 - RAG, embeddings e busca semântica
 - Capacitação e disseminação de Inteligência Artificial
 
-## Tecnologias e ferramentas
+## Competências técnicas em sistemas agênticos
 
 - **Arquiteturas multiagente e multi-Profile:** implementação de assistentes executivos, agentes especialistas e componentes operacionais com identidades, responsabilidades, ferramentas, sessões, memórias e permissões isoladas por usuário e função.
 - **Model Context Protocol — MCP:** desenvolvimento e operação de MCP com ferramentas para consultas e operações somente leitura, escopo empresarial controlado, allowlist de ferramentas e execução sob conta Linux dedicada.
